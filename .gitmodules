@@ -1,0 +1,3 @@
+[submodule "sample_sub_repo"]
+	path = sample_sub_repo
+	url = https://github.com/aakash4dev/sample_sub_repo.git
